@@ -1,0 +1,65 @@
+ <!-- Nav Bar Start-->
+  <ul class="nav">
+    <li class="nav"> <a href="#home"> Home </a></li>
+    <li class="nav"> <a href="#h2"> Heading 2 </a></li>
+    <li class="nav"> <a href="https://www.google.com"> Google </a></li>
+    <li class="nav"> <a href="#circle"> Circle List </a></li>
+    <li class="nav"> <a href="#h4"> Head 4 </a></li>
+
+  </ul>
+<!-- Nav Bar End-->
+<br>
+<br>
+<ol type="A">
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ol>
+  
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-11/13/5/enhanced/webdr09/enhanced-11192-1447410152-5.png" alt="mad raisin"> 
+  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehender voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laboru </p>
+
+ 
+ 
+  <h6> Heading 6 </h6>
+  
+   <ol type="I">
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ol>
+  
+  <h3> heading 3 </h3>
+
+
+  
+  
+   <ul style="list-style-type: square"> <!--inline style -->
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ul>
+  
+  <hr>
+  
+   <ul id="circle" class="circle">
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ul>
+  
+  <h2 id="h2"> Heading 2 </h2>
+  
+   <ol type="5">
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ol>
+  
+  <h4 id="h4"> Heading 4 </h4>
+  
+   <ol type="i">
+    <li> First Item </li>
+    <li> Second Items </li>
+    <li> Third Item </li>
+  </ol> 
